@@ -34,7 +34,3 @@ This project provides insights into the engagement metrics of 10 Thai fashion an
 | 5            | **Enhance Post Quality:** Use quality images, engaging captions, and trending hashtags. Consider videos for higher engagement. | **Collaborate with Brands:** Partner with complementary brands for wider exposure.                |
 | 6            | **Promotions & Giveaways:** Organize contests and giveaways to increase reach rapidly. | **Advanced Analytics:** Use tools to understand what content type and posting times are most engaging. |
 | 7            | **Feedback Loop:** Seek active feedback to gain insights and make audiences feel valued. | **Host Live Events:** Use Facebook Live for product launches or Q&A to boost real-time engagement. |
-7. **Host Live Events:** 
-   - Use Facebook Live for product launches, Q&A sessions, or simple interactive sessions. It boosts real-time engagement.
-
-
