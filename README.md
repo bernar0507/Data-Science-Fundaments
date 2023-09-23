@@ -25,48 +25,15 @@ This project provides insights into the engagement metrics of 10 Thai fashion an
 
 ## Targeted Marketing Strategies for Each Cluster
 
-### **Cluster 0 (Less Popular Sellers):**
-
-1. **Engage More:** 
-   - Initiate **User-Generated Content (UGC)** campaigns. Encourage followers to share their experiences with your products. This not only increases engagement but can also serve as testimonials.
-   
-2. **Collaborate with Influencers:** 
-   - Partner with micro-influencers who resonate with your brand. Their endorsement can provide a significant boost in popularity and trust.
-
-3. **Post Optimization:** 
-   - Focus on posting during the peak hours identified (5:00 - 10:00) to gain maximum visibility and engagement.
-   
-4. **Interactive Content:** 
-   - Use polls, quizzes, or Q&A sessions to engage with the audience. This also provides insights into their preferences.
-
-5. **Enhance Post Quality:** 
-   - Use high-quality images, engaging captions, and trending hashtags. Also, consider using videos, as they generally have higher engagement rates.
-
-6. **Promotions & Giveaways:** 
-   - Organize contests and giveaways with simple participation criteria, like tagging friends or sharing the post. This can rapidly increase reach.
-
-7. **Feedback Loop:** 
-   - Actively seek feedback on how to improve. This not only provides insights but also makes the audience feel valued.
-
-### **Cluster 1 (Super Popular Sellers):**
-
-1. **Loyalty Programs:** 
-   - With a strong base, introduce loyalty programs to reward frequent shoppers or active followers.
-
-2. **Exclusive Launches:** 
-   - Use the platform to introduce new products or limited-edition items. Give your followers the 'first access' feel.
-
-3. **Behind the Scenes:** 
-   - Showcase the making of products, team introductions, or fun office moments. This humanizes the brand and strengthens the connection with followers.
-
-4. **Engage Consistently:** 
-   - Engage regularly with followers through comments, liking their posts, or even reposting user-generated content.
-
-5. **Collaborate with Brands:** 
-   - Collaborations or partnerships with complementary brands can expose your products to a wider audience.
-
-6. **Advanced Analytics:** 
-   - Use advanced tools to delve deeper into analytics. Understand what type of content is most engaging and at what times.
+| Strategy No. | Cluster 0 (Less Popular Sellers)                                                  | Cluster 1 (Super Popular Sellers)                                           |
+|--------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1            | **Engage More:** Initiate **User-Generated Content (UGC)** campaigns. Encourage followers to share their experiences. | **Loyalty Programs:** Introduce programs to reward frequent shoppers or active followers.           |
+| 2            | **Collaborate with Influencers:** Partner with micro-influencers who resonate with your brand. | **Exclusive Launches:** Introduce new or limited-edition items with 'first access' for followers. |
+| 3            | **Post Optimization:** Post during peak hours (5:00 - 10:00) for maximum visibility. | **Behind the Scenes:** Showcase the making of products or fun moments to humanize the brand.       |
+| 4            | **Interactive Content:** Use polls, quizzes, or Q&A sessions for engagement and insights. | **Engage Consistently:** Engage with followers through comments, likes, or reposts.               |
+| 5            | **Enhance Post Quality:** Use quality images, engaging captions, and trending hashtags. Consider videos for higher engagement. | **Collaborate with Brands:** Partner with complementary brands for wider exposure.                |
+| 6            | **Promotions & Giveaways:** Organize contests and giveaways to increase reach rapidly. | **Advanced Analytics:** Use tools to understand what content type and posting times are most engaging. |
+| 7            | **Feedback Loop:** Seek active feedback to gain insights and make audiences feel valued. | **Host Live Events:** Use Facebook Live for product launches or Q&A to boost real-time engagement. |
 7. **Host Live Events:** 
    - Use Facebook Live for product launches, Q&A sessions, or simple interactive sessions. It boosts real-time engagement.
 
